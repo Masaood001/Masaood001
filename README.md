@@ -8,7 +8,7 @@ and AI-powered applications.
 - 🔭 Currently working on: GreenRoute
 - 🤖 Exploring: AI, Machine Learning, NLP & LLMs
 - 💻 Learning: DSA, Full-Stack Development & System Design
-- 🌱 Improving: C++, JavaScript, Python & Git/GitHub
+- 🌱 Improving: Java, JavaScript, Python & Git/GitHub
 - 🎯 Goal: Build useful real-world projects and become a strong software engineer
 
 
